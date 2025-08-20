@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-mern-product-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/src/server.js",
+  "scripts": {
+    "dev": "nodemon backend/src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caileeaverill/fullstack-mern-product-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/caileeaverill/fullstack-mern-product-store/issues"
+  },
+  "homepage": "https://github.com/caileeaverill/fullstack-mern-product-store#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.17.2"
+  }
+}
